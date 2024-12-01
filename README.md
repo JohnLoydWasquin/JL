@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here’s a little about me:
 
 ## About Me
 - 🌍 I’m from Batangas, Philippines
-- 💻 I’m Student in Batanngas State University - Lipa Campus
+- 💻 I’m Student in Batangas State University - Lipa Campus
 - 🌱 I’m learning PHP and database management (MySQL)
 - 📧 Reach me at: [johnloydwasquin27@gmail.com](mailto:johnloydwasquin27@gmail.com)
 
